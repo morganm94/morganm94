@@ -10,7 +10,7 @@
 ## Introduction
 
 <p>
-Experience AI/ML Engineer with 5 years of experience in developing, training machine learning models and algorithms to solve complex business and technical challenges. Proficient in variety of programming languages and frameworks like Python, TensorFlow and GCP. Stay up-to-date with industry trends and best practices though Social-Media and online forums.
+Experience Software Engineer with 5 years of experience in developing, training machine learning models and algorithms to solve complex business and technical challenges. Proficient in variety of AI/ML programming languages and frameworks like Python, TensorFlow and GCP. Stay up-to-date with industry trends and best practices though Social-Media and online forums.
 
 I am certified in Python, Data Science, Machine Learning, and Deep Learning with expertise in image processing, machine learning, and computer vision. I specialized in face recognition, face detection, and object tracking, using tools like TensorFlow, Keras, OpenCV, and Natural Language Processing. My passion is fueled by the transformative potential of AI in industries.
 
