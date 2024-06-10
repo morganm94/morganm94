@@ -1,6 +1,6 @@
 # Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
 
-### I am Morgan Mastrangelo, and AI/ML Engineer
+### I am Morgan Mastrangelo, and Software Engineer
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-171227277/)
 [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morganm94)
@@ -13,6 +13,10 @@
 Experience Software Engineer with 5 years of experience in developing, training machine learning models and algorithms to solve complex business and technical challenges. Proficient in variety of AI/ML programming languages and frameworks like Python, TensorFlow and GCP. Stay up-to-date with industry trends and best practices though Social-Media and online forums.
 
 I am certified in Python, Data Science, Machine Learning, and Deep Learning with expertise in image processing, machine learning, and computer vision. I specialized in face recognition, face detection, and object tracking, using tools like TensorFlow, Keras, OpenCV, and Natural Language Processing. My passion is fueled by the transformative potential of AI in industries.
+
+And I have extensive experience in developing and managing content management systems. My expertise includes working with popular platforms such as WordPress, Contentful, and Drupal. I have a strong foundation in front-end technologies like HTML, CSS, JavaScript, and React, coupled with backend skills in PHP, Node.js, and Python. My experience includes customizing themes, developing plugins, and optimizing CMS performance to enhance user experience.
+
+My expertise includes working with platforms like Ethereum, Hyperledger, and Binance Smart Chain, leveraging smart contracts and consensus algorithms to develop secure and efficient blockchain solutions. I have hands-on experience in Solidity, Rust, and Go, and I am proficient in developing, testing, and deploying decentralized applications (DApps).
 
 </p>
 
