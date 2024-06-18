@@ -14,7 +14,7 @@ Experience Software Engineer with 5 years of experience in developing, training 
 
 I am certified in Python, Data Science, Machine Learning, and Deep Learning with expertise in image processing, machine learning, and computer vision. I specialized in face recognition, face detection, and object tracking, using tools like TensorFlow, Keras, OpenCV, and Natural Language Processing. My passion is fueled by the transformative potential of AI in industries.
 
-And I have extensive experience in developing and managing content management systems. My expertise includes working with popular platforms such as WordPress, Contentful, and Drupal. I have a strong foundation in front-end technologies like HTML, CSS, JavaScript, and React, coupled with backend skills in PHP, Node.js, and Python. My experience includes customizing themes, developing plugins, and optimizing CMS performance to enhance user experience.
+And I have extensive experience in developing and managing content management systems. My expertise includes working with popular platforms such as WordPress, Shopify and Contentful. I have a strong foundation in front-end technologies like HTML, CSS, JavaScript, and Vue.js, Nuxt, and Svelte, coupled with backend skills in PHP, Laravel and Node.js. My experience includes customizing themes, developing plugins, and optimizing CMS performance to enhance user experience.
 
 My expertise includes working with platforms like Ethereum, Hyperledger, and Binance Smart Chain, leveraging smart contracts and consensus algorithms to develop secure and efficient blockchain solutions. I have hands-on experience in Solidity, Rust, and Go, and I am proficient in developing, testing, and deploying decentralized applications (DApps).
 
