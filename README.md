@@ -14,7 +14,7 @@ Experience software engineer with 5 years of experience in developing, training 
 
 I am certified in Python, Data Science, Machine Learning, and Deep Learning with expertise in image processing, machine learning, and computer task vision. I specialized in face recognition, face detection, and object tracking, using tools like TensorFlow, Keras, OpenCV, and Natural Language Processing. My passion of AI keeps shiny with continuous contribution to open-source projects and creating interesting blogs on developer forums, webinar and social media.
 
-I am also a self-taught full-stack developer specialized in creating user-friendly web application using frontend technologies like React, Next.js and Vue.js, as well as with expertise in backend stuffs including Node.js and Django.
+I am also a self-taught full-stack developer specialized in creating user-friendly web application using frontend technologies like Next.js and SvelteKit, as well as with expertise in backend stuffs including Node.js and Django.
 </p>
 
 ## Skills
