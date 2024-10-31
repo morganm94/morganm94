@@ -2,7 +2,7 @@
 
 ### I am Morgan Mastrangelo, and Software Engineer
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan941120/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-666354333/)
 [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morganm94)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=flat-square&logo=Gmail&logoColor=white)](mailto:mmastrangelo1120@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-darkgreen?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/mmastrangelo1120)
